@@ -36,7 +36,7 @@ CSL 201- Data Structure Lab
 30. Graph- Adjacency Matrix
 31. Graph- Adjacency List
 32. BFS
-33. BFS
+33. DFS
 34. Hash Table with Chaining
 35. Hash table with Linear Probing
 36. Basic Memory Allocation and Garbage Collector using Doubly Linked List
