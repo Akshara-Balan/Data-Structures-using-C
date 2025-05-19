@@ -8,8 +8,8 @@ CSL 201- Data Structure Lab
 2. Sparse Matrix Representation and Sum
 3. Stack implementation
 4. Queue implementation
-5. Circular Queue
-6. Double Ended Queue
+5. Double Ended Queue
+6. Circular Queue
 7. Priority queue
 8. Infix to postfix
 9. Infix to prefix
